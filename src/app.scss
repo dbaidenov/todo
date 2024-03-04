@@ -1,0 +1,9 @@
+.App {
+    min-height: 100vh;
+    z-index: -1;
+    width: 75%;
+
+    @media screen and (max-width:820px) {
+        width: 100%;
+    }
+}

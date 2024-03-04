@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./asets/fonts/Inter/static/Inter-Regular.ttf");
+}
+
+* {
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #262626;
+}
